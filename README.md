@@ -1,2 +1,2 @@
 # djangoProject001
-First experience with Django
+The result of homework on the Django framework
